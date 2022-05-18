@@ -1,4 +1,4 @@
-Hi 👋 My name is Sandra Weidenthal.
+Hi 👋 My name is Sandra.
 ===================================
 I'm a Web Developper Junior Fullstack.
 --------------------------------------
