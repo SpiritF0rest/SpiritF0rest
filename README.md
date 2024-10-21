@@ -1,6 +1,6 @@
 Hi 👋 My name is Sandra.
 ===================================
-I am a junior Python application developer.
+I am a backend developer specialized in Python.
 --------------------------------------
 I started the code in July 2021, before that I knew nothing about it. I first learned the basics of web development (HTML, CSS, JS, ...) during my training with OpenClassrooms. I had a big preference for the backend and therefore did a work-study course in Python (training: OpenClassrooms, company: Covage).
 * 🌍  I'm based in Tours, France.
